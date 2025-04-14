@@ -1,0 +1,4 @@
+Input works //coment line
+3
+3 2 1
+0 10000 0.5
