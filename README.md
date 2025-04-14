@@ -8,4 +8,4 @@
 
 В консоль выводиться уровень ошибки в каждой итерации цикла, а в конце показывает результат работы на всём наборе, а также последнюю, итоговую ошибку:
 
-![Вывод консоли после запуска и обучения](https://github.com/AlbionVisual/My-first-neural-network-2022-School-project/blob/main/clips/console-output.png)
+![Вывод консоли после запуска и обучения](https://github.com/AlbionVisual/My-first-neural-network-2022-School-project/blob/main/clips/console_output.png)
